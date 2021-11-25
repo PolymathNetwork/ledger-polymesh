@@ -34335,5 +34335,38 @@
       "9 | Block [1/2] : 6fbd74e5e1d0a61d52ccfe9d4adaed16dd3a7c",
       "9 | Block [2/2] : aa37c6bc4d0c2fa12e8b2f4063"
     ]
+  },
+  {
+    "index": 1315,
+    "name": "Identity_Add_claim",
+    "blob": "0707b25410b3811e1e3cb01eba65b59541c7999ef04c508475b96ab5fce891d36e180627014c454400000000000000000000d5030433158139ae28a3dfaac5fe1560a5e9e05cb80b0000010000006fbd74e5e1d0a61d52ccfe9d4adaed16dd3a7caa37c6bc4d0c2fa12e8b2f40636fbd74e5e1d0a61d52ccfe9d4adaed16dd3a7caa37c6bc4d0c2fa12e8b2f4063",
+    "output": [
+      "0 | Identity : Add claim",
+      "1 | Target [1/2] : b25410b3811e1e3cb01eba65b59541c7999ef0",
+      "1 | Target [2/2] : 4c508475b96ab5fce891d36e18",
+      "2 | Claim [1/3] : Jurisdiction",
+      "2 | Claim [2/3] : CA",
+      "2 | Claim [3/3] : LED",
+      "3 | Expiry : None",
+      "4 | Tip [1/2] : POLYX 12345678901234567890123456789012",
+      "4 | Tip [2/2] : 3.456789"
+    ],
+    "output_expert": [
+      "0 | Identity : Add claim",
+      "1 | Target [1/2] : b25410b3811e1e3cb01eba65b59541c7999ef0",
+      "1 | Target [2/2] : 4c508475b96ab5fce891d36e18",
+      "2 | Claim [1/3] : Jurisdiction",
+      "2 | Claim [2/3] : CA",
+      "2 | Claim [3/3] : LED",
+      "3 | Expiry : None",
+      "4 | Chain : Polymesh",
+      "5 | Nonce : 1",
+      "6 | Tip [1/2] : POLYX 12345678901234567890123456789012",
+      "6 | Tip [2/2] : 3.456789",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : 6fbd74e5e1d0a61d52ccfe9d4adaed16dd3a7c",
+      "9 | Block [2/2] : aa37c6bc4d0c2fa12e8b2f4063"
+    ]
   }
 ]
