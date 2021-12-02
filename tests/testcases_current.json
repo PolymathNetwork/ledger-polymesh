@@ -34335,5 +34335,24 @@
       "9 | Block [1/2] : 6fbd74e5e1d0a61d52ccfe9d4adaed16dd3a7c",
       "9 | Block [2/2] : aa37c6bc4d0c2fa12e8b2f4063"
     ]
+  },
+  {
+    "index": 1315,
+    "name": "Identity_Join_identity_as_key",
+    "blob": "0705010000000000000000910100b80b0000010000006fbd74e5e1d0a61d52ccfe9d4adaed16dd3a7caa37c6bc4d0c2fa12e8b2f40636fbd74e5e1d0a61d52ccfe9d4adaed16dd3a7caa37c6bc4d0c2fa12e8b2f4063",
+    "output": [
+      "0 | Identity : Join identity as key",
+      "1 | Auth id : 1"
+    ],
+    "output_expert": [
+      "0 | Identity : Join identity as key",
+      "1 | Auth id : 1",
+      "2 | Chain : Polymesh",
+      "3 | Nonce : 100",
+      "4 | Era Phase : 0",
+      "5 | Era Period : 0",
+      "6 | Block [1/2] : 6fbd74e5e1d0a61d52ccfe9d4adaed16dd3a7c",
+      "6 | Block [2/2] : aa37c6bc4d0c2fa12e8b2f4063"
+    ]
   }
 ]
